@@ -6,7 +6,7 @@ This repository serves as a dedicated space for tracking and documenting the com
 
 ### 📂 Projects
 
-* **[Single-Page CV]([Single-Page CV](https://github.com/mrsingh1511/roadmap.sh-projects/tree/f4e77cfc2df26c2129cc77de716cd3787dd06a67/Single-Page%20CV)):** A clean, responsive, and professional single-page resume built to showcase front-end fundamentals.
+* **[Single-Page CV](https://roadmap.sh/projects/single-page-cv):** A clean, responsive, and professional single-page resume built to showcase front-end fundamentals.
 
 ---
 
