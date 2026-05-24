@@ -7,6 +7,7 @@ This repository serves as a dedicated space for tracking and documenting the com
 ### 📂 Projects
 
 * **[Single-Page CV](https://roadmap.sh/projects/single-page-cv):** A clean, responsive, and professional single-page resume built to showcase front-end fundamentals.
+* **[Basic HTML Website](https://roadmap.sh/projects/basic-html-website):** A foundational HTML-only website project from roadmap.sh.
 
 ---
 
